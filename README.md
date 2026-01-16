@@ -5,4 +5,4 @@
 ### Retrieve params and status of interfaces from TIM HUB modem (black type)
 
 Instructions:
-download the JS puppetteer script and launch with node
+download the JS puppeteer script and launch with node
