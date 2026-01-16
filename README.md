@@ -1,7 +1,8 @@
 # TIM-HUB-modem
 
-# Simple puppetteer script
+## Simple puppeteer script
 
-# Retrieve params and status of interfaces from TIM HUB modem (black type)
+### Retrieve params and status of interfaces from TIM HUB modem (black type)
 
-# download the JS puppetteer script and launch with node
+Instructions:
+download the JS puppetteer script and launch with node
